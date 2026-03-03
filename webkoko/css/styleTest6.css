@@ -1,0 +1,31 @@
+body{
+    color: #A94064;
+    background-color: #FFC1CC;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: right bottom;
+}
+
+h1{
+    background-color: #FFD1DC;
+    opacity: 1;
+}
+
+p{
+    z-index: 1;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    position: fixed;
+    margin-top: 100px;
+    margin-left: 70rem;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    opacity: 0.8;
+}
+#mydiv1{
+    color:#A94064;
+}
